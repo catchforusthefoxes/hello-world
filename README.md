@@ -1,2 +1,3 @@
 # hello-world
 Initializing in 3, 2, 1...
+I'm a Computer Science major that's beginning a journey in teaching myself how to code in Python.  I have some experience in web apps and HTML/Graphic Design, but not much - so here I am on GitHub, making small projects to show my skillset.  Thanks for reading, and - Hello, World.
